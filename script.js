@@ -10,7 +10,7 @@ function toggleMode(){
         img.setAttribute('src','./assets/pops3.jpeg' )
         
     }else{
-        img.setAttribute('src','./assets/pops1.jpeg' )
+        img.setAttribute('src','./assets/pops.jpg' )
 
     }
     
